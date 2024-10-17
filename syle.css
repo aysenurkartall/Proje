@@ -1,0 +1,28 @@
+
+.slogan h1, .slogan p {
+    color: white; /* Yazı rengini beyaz yap */
+}
+
+
+
+
+
+
+
+.slogan {
+    background-image: url(pexels-thisisengineering-3861969.jpg);
+    background-position: center;
+}
+
+.row h2, .row p {
+    text-align: center;
+}
+
+.gorsel-img {
+    border-radius: 50%;
+    width: 140px;
+    height: 140px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
